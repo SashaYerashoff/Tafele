@@ -1,7 +1,7 @@
 # TĀFELE
 
 > A sketchpad for diagrams, UI wireframes, and relational ideas — built for humans and LLMs alike.
-
+![TĀFELE screenshot](https://github.com/SashaYerashoff/Tafele/blob/main/Screenshot%20From%202026-03-11%2018-33-04.png)
 
 ## What is it?
 
